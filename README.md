@@ -1,2 +1,2 @@
-# data-cleaning-toolkit
+# Data Cleaning Toolkit
 My toolkit for data cleaning
